@@ -5,10 +5,6 @@
 - 👋 Hi, I’m @Amar-Manjarathkar
 - 👀 I’m interested in Problem solving and Research
 - 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Intsa , whatsapp
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h3 align="center">
 Statistics
 </h3>
