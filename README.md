@@ -11,13 +11,13 @@ Statistics
 <br/>
 <p align="center">
   <a href="https://github.com/Amar-Manjarathkar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-Manjarathkar&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-Manjarathkar&theme=radical&border=7F3FBF&background=0D1117" alt="Amar's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Amar-Manjarathkar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amar-Manjarathkar&theme=radical" alt="Yuvraj Rathod's GitHub Days"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amar-Manjarathkar&theme=radical" alt="Amar's GitHub Days"/>
   </a>
 </p>
 
